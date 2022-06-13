@@ -7,10 +7,12 @@
 <div align="center">
 </div>
 
-<div align="center">
-<img src="https://media.tenor.com/images/808d3bc453bf9630a3b7fea61276b4bc/tenor.gif" width="40%" height="40%" style="max-width:100%;">
-</div>
 
+<!-- ![tenor](https://user-images.githubusercontent.com/91541899/173412552-05fecc11-e8b1-46b4-8fde-ebe2ca483470.gif) -->
+
+<div align="center"> <img src="https://user-images.githubusercontent.com/91541899/173412552-05fecc11-e8b1-46b4-8fde-ebe2ca483470.gif" alt="/> </div>
+  
+  
 <div align="center">
   <a href="https://github.com/EliasColturato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasColturato&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
