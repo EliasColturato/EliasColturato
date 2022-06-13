@@ -9,8 +9,9 @@
   <a href="https://github.com/EliasColturato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasColturato&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasColturato&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-  
+
+ <img src="https://media.tenor.com/images/808d3bc453bf9630a3b7fea61276b4bc/tenor.gif" width="40%" height="40%" style="max-width:100%;">
+    
  <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
