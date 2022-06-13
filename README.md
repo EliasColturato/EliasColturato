@@ -1,20 +1,20 @@
 ### Olá, meu nome é Elias! 👋
 
 
-
 - 📫 Estudante de Desenvolvimento Front-End
 - 😄 Tecnologia & Publicidade
+
+<div align="center">
+<img  src="https://media.tenor.com/images/808d3bc453bf9630a3b7fea61276b4bc/tenor.gif" width="40%" height="40%" style="max-width:100%;">
+</div>
+
+
 
 <div align="center">
   <a href="https://github.com/EliasColturato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasColturato&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasColturato&layout=compact&langs_count=7&theme=cobalt"/>
  
- <div>
-   <img align="center alt="" src="https://tenor.com/view/in-the-house-martin-martin-lawernce-biggie-hello-gif-15455137"
-</div>
-    
-   ![tenor](https://user-images.githubusercontent.com/91541899/173410573-f43f732c-0a9b-4bb7-8b38-6d78140f33bb.gif)
 
  <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
